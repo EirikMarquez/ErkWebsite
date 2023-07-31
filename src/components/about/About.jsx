@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/Eirik_AM_Picture-removebg-preview.png";
+import ME from "../../assets/me-about.png";
 import { TbAward } from "react-icons/tb";
 import { GiAirForce } from "react-icons/gi";
 import { SiBookstack } from "react-icons/si";
@@ -39,7 +39,7 @@ const About = () => {
             student hoping to eventually be a Software Engineer someday. I also
             have deep interests in Cyber Security and hope to work in both
             fields or to combine them by creating tools or through utilization
-            of secure programming. Meow!
+            of secure programming. 
           </p>
 
           <a href="#contact" className="btn btn-primary">
