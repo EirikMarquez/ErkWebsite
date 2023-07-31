@@ -39,7 +39,7 @@ const About = () => {
             student hoping to eventually be a Software Engineer someday. I also
             have deep interests in Cyber Security and hope to work in both
             fields or to combine them by creating tools or through utilization
-            of secure programming.
+            of secure programming. Meow!
           </p>
 
           <a href="#contact" className="btn btn-primary">
