@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.png";
+import ME from "../../assets/Eirik_AM_Picture-removebg-preview.png";
 import { TbAward } from "react-icons/tb";
 import { GiAirForce } from "react-icons/gi";
 import { SiBookstack } from "react-icons/si";
